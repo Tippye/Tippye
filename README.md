@@ -11,8 +11,7 @@
 技术改变生活，一个还在学习中的大学牲
 
 # **Find Me**
-
-- [邮箱📧](mailto: tippy_q@163.com)
+- <a href="mailto:tippy_q@163.com">邮箱📧</a>
 - [Website🌐](http://tippy.icu)
 
 # **GitHub Stats**
