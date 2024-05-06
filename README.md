@@ -20,4 +20,5 @@
 
 <iframe src="https://ys.himiku.com/90/273351001.png" width="1000" height="320" allow-top-navigation="false" allow-forms="false" allowfullscreen="false" allow-popups="false" sandbox="allow-scripts allow-same-origin allow-popups"></iframe>
 
-<div style="display: flex;justify-content: center;">< img src="https://moe-counter.glitch.me/get/@Tippye?theme=moebooru" alt="Viewer" /></div>
+
+<div style="display: flex;justify-content: center;"><img src="https://moe-counter.glitch.me/get/@Tippye?theme=moebooru" alt="Viewer" /></div>
