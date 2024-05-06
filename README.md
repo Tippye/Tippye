@@ -2,7 +2,7 @@
 
 <h1 style="text-align: center;"><b>Welcome to TippyのBlog</b></h1>
 
-< img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=Tippye" alt="Tippye's Github Stats"/>Hi, I'm **Tippy**, a grad student.😄
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?show_icons=true&hide_title=true&hide_rank=true&count_private=true&show_bg=1&username=Tippye" alt="Tippye's Github Stats"/>Hi, I'm **Tippy**, a grad student.😄
 
 💖 Love anime and code for life
 
