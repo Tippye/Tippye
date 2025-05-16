@@ -6,6 +6,8 @@
 
 🔬 Full-stack development
 
+📮 [tippy_m@163.com](mailto:tippy_m@163.com)
+
 ## Tools & Interests
 
 [![](https://img.shields.io/badge/Linux-Debian-a42050?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org/) [![](https://img.shields.io/badge/IDE-WebStorm-089ef6?style=flat-square&logo=webstorm&logoColor=ffffff)](https://www.jetbrains.com/webstorm) [![](https://img.shields.io/badge/IDE-PyCharm-70DD8C?style=flat-square&logo=pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm)
